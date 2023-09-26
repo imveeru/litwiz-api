@@ -1,7 +1,7 @@
 ##################### Vertext AI & PaLM API initialization #####################
 
 import json
-import google.generativeai as palm
+# import google.generativeai as palm
 from google.auth import credentials
 from google.oauth2 import service_account
 import google.cloud.aiplatform as aiplatform
