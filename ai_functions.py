@@ -39,10 +39,10 @@ vertexai.init(project=project_id, location="us-central1")
 import os
 import json
 import requests
-from dotenv import find_dotenv,load_dotenv
+# from dotenv import find_dotenv,load_dotenv
 
-load_dotenv(find_dotenv())
-SERPAPI_API_KEY=os.getenv("SERPAPI_API_KEY")
+# load_dotenv(find_dotenv())
+# SERPAPI_API_KEY=os.getenv("SERPAPI_API_KEY")
 
 ##################### Search through web #####################
 
