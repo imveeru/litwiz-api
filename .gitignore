@@ -1,2 +1,4 @@
 /dependencies
-.zip
+*.pyc
+lib
+*.zip
